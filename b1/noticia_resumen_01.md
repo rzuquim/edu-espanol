@@ -7,57 +7,55 @@
 
 ## Résumen
 
-El Gobierno llevaba días resistiendo el impacto de otros audios en los que el director de la Agencia Nacional de
-Discapacidad (Andis), `Diego Spagnuolo`, involucra a `Karina Milei` y dos de sus principales asesores, los primos
-`Martín` y `Eduardo Lule Menem`, y los ministros `Federico Sturzenegger` (Desregulación) y `Sandra Pettovello` (Capital
-Humano) en una trama de corrupción en la compra de medicamentos para su cartera.
+En Argentina, el gobierno del presidente `Javier Milei` enfrenta una grave crisis política por la difusión de audios que
+involucran a su hermana, `Karina Milei`, y a varios funcionarios de confianza en un presunto caso de corrupción en la
+compra de medicamentos.
 
-La justicia está investigando a Spagnuolo y a los ejecutivos de la distribuidora de medicamentos `Suizo Argentina`,
-mencionada en los audios, por los delitos de administración fraudulenta, estafa, cohecho y negociaciones incompatibles
-con la función pública.
+Los primeros audios fueron atribuidos a `Diego Spagnuolo`, director de la Agencia Nacional de Discapacidad y amigo
+personal del presidente. En las grabaciones, se mencionan sobornos y negociaciones ilegales con la empresa farmacéutica
+`Suizo Argentina`.
 
-Has ta ahora, las respuestas del gobierno fueron:
+La Justicia investiga posibles delitos de administración fraudulenta, cohecho y estafa.
 
-- nego las acusaciones ("burdas operaciones difamatorias")
-- desplazar a Spagnuolo de su cargo como medida preventiva
-- se decir víctima de un complot internacional, hecho por `periodistas espías` (servicios secretos rusos y venezolanos)
-- conseguir que un juez prohibiese la difusión de nuevos audios
-- Milei compartió un comunicado oficial de la droguería Suiza Argentina en sus redes sociales
+**Respuesta del Gobierno**:
+
+- Negó las acusaciones, calificándolas de ("burdas operaciones difamatorias")
+- Desplazó a Spagnuolo de su cargo
+- Denunció un complot internacional, hecho por `periodistas espías` (servicios secretos rusos y venezolanos)
+- Consiguió que un juez prohibiera la difusión de nuevos audios
+- Milei compartió un comunicado de la empresa acusada defendiendo su inocencia
+
+Sin embargo, estas medidas generaron críticas de la oposición y de la prensa, que acusan al presidente de censura y de
+no responder al contenido de los audios.
 
 ![tweet Bullrich](./assets/tweet.png)
 
-Mientras el Gobierno quitaba cientos de pensiones por invalidez, la voz del responsable del área denunciando sobornos.
+---
 
-La denuncia es relevante por su principal bandera de lucha “contra la casta” y los “chorros [ladrones] kirchneristas”.
+Mientras el Gobierno quitaba cientos de pensiones por invalidez, la voz del responsable del área denunciando sobornos.
 
 Las medidas de combate a la denuncia generaron todo tipo de críticas:
 
-- censura previa
-- ataque a la libertad de prensa
-- sin respuestas a los contenidos de los audios
-- fallas en el servicio de inteligencia argentino
--
-- la denuncia se centra en el espionaje a Karina, pero nada dice de los audios de Spagnuolo, tan cuestionables en su
-  origen como aquellos, pero mucho más peligrosos en su contenido
-
-## Quién son los acusados
+## Quién son los acusados principales
 
 ![acusados](./assets/acusados_juntos.jpg)
 
 ### Diego Spagnuolo
 
-Abogado y amigo personal de Milei, registra más ingresos a la Casa Rosada y la residencia oficial del presidente que
-cualquiera de los ministros de más rango.
+Abogado, amigo personal de Milei y director de la ANDIS.
+
+Registra más ingresos a la Casa Rosada y la residencia oficial del presidente que cualquiera de los ministros de más
+rango.
 
 ### Karina Mieli
 
-Hermana y la persona más poderosa de la gestión libertaria y sostén anímico del presidente.
+Hermana y la persona más poderosa de la gestión libertaria.
 
-Llamada por Milei de `El jefe` ocupa el cargo de Secretaria General de la Presidencia, cargo creado para ella.
+Apodada por Milei de `El jefe`, ocupa el cargo de Secretaria General de la Presidencia, cargo creado justo para ella.
 
 ### Martin y Eduardo "Lule" Menem
 
-Lule es subsecretario de Gestión Institucional y hermano Carlos Menem quien fuera presidente de la Nación entre 1989
+Lule es subsecretario de Gestión Institucional y hermano Carlos Menem, quien fuera presidente de la Nación entre 1989
 y 1999.
 
 Martin es diputado nacional y presidente de la Cámara baja y no de los principales armadores de La Libertad Avanza en
@@ -88,6 +86,9 @@ flowchart LR
 ```
 
 ## El contexto
+
+La crisis también hace que el presidente pierda apoyo entre sus propios votantes, ya que golpea directamente su
+principal bandera de lucha: la guerra contra “la casta” y los “chorros kirchneristas”.
 
 - víspera de las elecciones legislativas nacionales y de la provincia de Buenos aires
 - pesquisas apuntan la Libertad Avanza como gran favorita
