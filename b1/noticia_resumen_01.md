@@ -5,7 +5,7 @@
     El Gobierno asegura que la difusión de grabaciones ilegales de Karina Milei tiene como objetivo
     desestabilizarlo en la víspera de las elecciones legislativas
 
-## Résumen
+## Resumen
 
 En Argentina, el gobierno del presidente `Javier Milei` enfrenta una grave crisis política por la difusión de audios que
 involucran a su hermana, `Karina Milei`, y a varios funcionarios de confianza en un presunto caso de corrupción en la
