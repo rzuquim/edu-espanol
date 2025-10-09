@@ -7,7 +7,6 @@
 ### 3. PROHIBIDO ACAMPAR (pag 14)
 
 ```
-
 A) Lee estas normas de una playa en España. ¿Te parecen normas básicas y lógicas o alguna te parece excesiva o ilógica?
 ¿Has visto alguna vez otras normas o prohibiciones en una playa?
 ```
