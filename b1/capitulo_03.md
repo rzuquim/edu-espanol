@@ -12,8 +12,9 @@ C) Fíjate en cómo se for ma el futuro y clasifica los verbos en negrita de A e
 | ------------- | --------------- |
 | alargar       | hacer           |
 | alcanzar      | haber           |
-| tardar        | ser             |
+| tardar        |                 |
 | producir      | poder           |
 | llegar        | tener           |
 | comer         | poner           |
 | retirar       |                 |
+| ser           |                 |
